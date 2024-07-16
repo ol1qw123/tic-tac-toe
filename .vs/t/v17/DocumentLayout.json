@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fmoth\\source\\repos\\t\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E201DCB8-4ACD-4D2F-8262-807A3D6C02FC}|t.vcxproj|C:\\Users\\fmoth\\source\\repos\\t\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E201DCB8-4ACD-4D2F-8262-807A3D6C02FC}|t.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201DCB8-4ACD-4D2F-8262-807A3D6C02FC}|t.vcxproj|C:\\Users\\fmoth\\source\\repos\\t\\draw.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E201DCB8-4ACD-4D2F-8262-807A3D6C02FC}|t.vcxproj|solutionrelative:draw.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201DCB8-4ACD-4D2F-8262-807A3D6C02FC}|t.vcxproj|C:\\Users\\fmoth\\source\\repos\\t\\game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E201DCB8-4ACD-4D2F-8262-807A3D6C02FC}|t.vcxproj|solutionrelative:game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201DCB8-4ACD-4D2F-8262-807A3D6C02FC}|t.vcxproj|C:\\Users\\fmoth\\source\\repos\\t\\checkwin.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E201DCB8-4ACD-4D2F-8262-807A3D6C02FC}|t.vcxproj|solutionrelative:checkwin.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201DCB8-4ACD-4D2F-8262-807A3D6C02FC}|t.vcxproj|C:\\Users\\fmoth\\source\\repos\\t\\externVer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E201DCB8-4ACD-4D2F-8262-807A3D6C02FC}|t.vcxproj|solutionrelative:externVer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "draw.hpp",
+              "DocumentMoniker": "C:\\Users\\fmoth\\source\\repos\\t\\draw.hpp",
+              "RelativeDocumentMoniker": "draw.hpp",
+              "ToolTip": "C:\\Users\\fmoth\\source\\repos\\t\\draw.hpp",
+              "RelativeToolTip": "draw.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-16T13:05:36.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "externVer.hpp",
+              "DocumentMoniker": "C:\\Users\\fmoth\\source\\repos\\t\\externVer.hpp",
+              "RelativeDocumentMoniker": "externVer.hpp",
+              "ToolTip": "C:\\Users\\fmoth\\source\\repos\\t\\externVer.hpp",
+              "RelativeToolTip": "externVer.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-16T13:00:57.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.hpp",
+              "DocumentMoniker": "C:\\Users\\fmoth\\source\\repos\\t\\game.hpp",
+              "RelativeDocumentMoniker": "game.hpp",
+              "ToolTip": "C:\\Users\\fmoth\\source\\repos\\t\\game.hpp",
+              "RelativeToolTip": "game.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-16T12:39:04.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "checkwin.hpp",
+              "DocumentMoniker": "C:\\Users\\fmoth\\source\\repos\\t\\checkwin.hpp",
+              "RelativeDocumentMoniker": "checkwin.hpp",
+              "ToolTip": "C:\\Users\\fmoth\\source\\repos\\t\\checkwin.hpp",
+              "RelativeToolTip": "checkwin.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-16T12:14:40.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\fmoth\\source\\repos\\t\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\fmoth\\source\\repos\\t\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-16T12:14:18.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
